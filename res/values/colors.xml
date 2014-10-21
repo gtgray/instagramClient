@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="clr_transparent">#00000000</color>
+	<color name="clr_list_divider">#1AFFFFFF</color>
+	<color name="clr_white_full">#FFFFFFFF</color>
+	<color name="clr_back_full">#F03D1B09</color>
+	<color name="clr_likes_back">#803D1B09</color>
+	<color name="clr_details_back">#A333B5E5</color>
+	
+</resources>

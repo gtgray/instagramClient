@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="client_id">6dcdb17735014449978467c2eb289891</string>
+    
+    <string name="app_name">InstagramClient</string>
+    
+    <string name="hint_username">Username</string>
+    <string name="id">"id: "</string>
+    
+    <string name="media_caption_tail">"'s media:"</string>
+	<string name="liked">"liked: "</string>
+	
+    <string name="details_caption">Media details</string>
+    <string name="type">"type: "</string>
+    <string name="created">"created: "</string>
+    <string name="commented">"commented: "</string>
+    <string name="title">"title: "</string>
+    
+    
+</resources>
